@@ -1,6 +1,8 @@
 This file includes key information, highlights, and important notes on Spring AOP, compiled from the official Spring Boot documentation.
 Document Link : 🔗 https://docs.spring.io/spring-framework/reference/core/aop.html
 
+❗ These notes are written by me and might include incorrect information or sentences that are hard to understand. I’m a junior developer trying to learn Spring Boot and the Spring Framework properly. Please let me know if you notice any mistakes.
+
 ## AOP with Spring
 
 In a short term, AOP complements OOP by providing another way of thinking about program structure. The key of modularity is aspect. AOP complements Spring IoC to provide a very capable middleware solution.  
