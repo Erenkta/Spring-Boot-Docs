@@ -18,3 +18,5 @@ Types of Spring Framework Annotations:
 * Spring Scheduling Annotations
 * Spring Data Annotations
 * Spring Bean Annotations
+
+I am going to document Spring Core and Spring Web annotations because these are the annotations we will frequently encounter.
