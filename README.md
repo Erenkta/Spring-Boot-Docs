@@ -6,7 +6,7 @@ This repository contains notes and highlights from the official Spring Boot docu
 
 The following topics are covered:
 - [x] Spring AOP
-- [ ] Spring Annotations
+- [x] Spring Annotations
 - [ ] Spring Actuators
 - [ ] Data Access
 - [ ] The IOC Container
